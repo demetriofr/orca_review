@@ -9,4 +9,4 @@
 
 Формат выполнения предполагается в созданном вами личном репозитории (напр. github) с данным кодом в ветке issues/review, в котором будет проведено ревью.
 
-(Тестовое задание)[https://gitlab.m-rc.ru/k.yarkov/review/-/snippets/2]
+[Тестовое задание](https://gitlab.m-rc.ru/k.yarkov/review/-/snippets/2)
